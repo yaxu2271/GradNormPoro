@@ -1,2 +1,2 @@
 # GradNormPoro
-This in my implementation on poroelastodynamic of Chen et al. "GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks" ICML 2018
+This in my implementation on poroelastodynamic of Chen et al. "Chen, Z., Badrinarayanan, V., Lee, C. Y., & Rabinovich, A. (2018, July). Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks. In International conference on machine learning (pp. 794-803). PMLR." 
